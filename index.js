@@ -27,5 +27,5 @@ function makeInt(n){
 }
 
 function makeInt(n){
-  return 10
+  return n = 10
 }
