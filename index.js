@@ -22,4 +22,4 @@ function dec(n){
   return n - 1
 }
 
-var n =
+var n = parseInt(
