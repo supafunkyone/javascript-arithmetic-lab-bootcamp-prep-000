@@ -22,3 +22,4 @@ function dec(n){
   return n - 1
 }
 
+function parseInt("n", 10){}
